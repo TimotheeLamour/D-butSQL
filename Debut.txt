@@ -1,0 +1,8 @@
+Select
+From
+Where
+Distinct
+Order By
+http://cui.unige.ch/isi/icle-wiki/_media/cours:sie:sqlmemento.pdf
+http://sqlpro.developpez.com/cours/sqlaz/fondements/
+http://webtic.free.fr/sql/exint/q1.htm
